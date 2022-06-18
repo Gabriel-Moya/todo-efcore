@@ -3,6 +3,10 @@ Construção de um ToDo para fixar conceitos de APIs, utilizando um vídeo do Ba
 <br>
 <https://youtu.be/QzCSN9wN4JA>
 
+# Banco de dados
+Para persistir os dados foi utilizado o Sqlite, por se tratar de um projeto de estudos, é um banco bem simples de se trabalhar, mas que aplica os mesmos conceitos para outros bancos de dados como SqlServer, PostgreSQL e afins.
+
+# Imagens ilustrando o funcionamento
 ![Post](/files-readme/POST.png)
 Método POST
 
