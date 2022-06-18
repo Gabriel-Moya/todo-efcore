@@ -1079,11 +1079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\Gabriel\\TodoBalta\\TodoBalta.csproj",
+      "projectUniqueName": "C:\\projects\\Gabriel\\todo-efcore\\TodoBalta\\TodoBalta.csproj",
       "projectName": "TodoBalta",
-      "projectPath": "C:\\projects\\Gabriel\\TodoBalta\\TodoBalta.csproj",
+      "projectPath": "C:\\projects\\Gabriel\\todo-efcore\\TodoBalta\\TodoBalta.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\Gabriel\\TodoBalta\\obj\\",
+      "outputPath": "C:\\projects\\Gabriel\\todo-efcore\\TodoBalta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B107y5sQufxq9VuMlyEuHvjM3ejlBl3nCS9Ther8FsgnLfYu/Z7dp10dORT6ctUCy8jCHiX0RS9PAlHe4JoS+g==",
+  "dgSpecHash": "as3DWMnsw8ca//Rf7+WMCx0EtlpDsrO5qSHs52Cc5GOSD8ckA1okOJLRSuU7Gd7yVK2jEJ4UpK9o2VCncg8Iyw==",
   "success": true,
-  "projectFilePath": "C:\\projects\\Gabriel\\TodoBalta\\TodoBalta.csproj",
+  "projectFilePath": "C:\\projects\\Gabriel\\todo-efcore\\TodoBalta\\TodoBalta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
