@@ -7,17 +7,17 @@ Construção de um ToDo para fixar conceitos de APIs, utilizando um vídeo do Ba
 Para persistir os dados foi utilizado o Sqlite, por se tratar de um projeto de estudos, é um banco bem simples de se trabalhar, mas que aplica os mesmos conceitos para outros bancos de dados como SqlServer, PostgreSQL e afins.
 
 # Imagens ilustrando o funcionamento
-![Post](/files-readme/POST.png)
 Método POST
+![Post](/files-readme/POST.png)
 
-![Put](/files-readme/PUT.png)
 Método PUT
+![Put](/files-readme/PUT.png)
 
-![Delete](/files-readme/DELETE.png)
 Método DELETE
+![Delete](/files-readme/DELETE.png)
 
-![GetById](/files-readme/GetById.png)
 Método GET por id
+![GetById](/files-readme/GetById.png)
 
-![GetAll](/files-readme/GetAll.png)
 Método GET para todos os To Dos
+![GetAll](/files-readme/GetAll.png)
